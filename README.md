@@ -10,7 +10,6 @@
 * Proud cat mom 🐈
 * Music is my life 🎶
 * Industrial metal music and horror movies is my home 🏠
-* Loves ice and cold 🧊
 
 ### What can I do for you?
 * Design and creativity 🎨
