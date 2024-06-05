@@ -1,9 +1,9 @@
 # Hello all 👋
 
 ### What do I do?
-* Currently learning front-end development 👩‍🎓
-* Founder of Bekkholt and Eurovisionsquad 💭
-* Admin and editor @ Eurovisionsquad 👩‍💻
+* Junior front-end developer 👩‍🎓
+* Founder of Bekkholt and Eurovision Squad 💭
+* Admin and editor @ Eurovision Squad 👩‍💻
 * Freelance transcriber and translator 👩‍💼
 
 ### Who am I?
@@ -12,8 +12,8 @@
 * Industrial metal music and horror movies is my home 🏠
 
 ### What can I do for you?
+* Front-end 💻
 * Design and creativity 🎨
-* Some front-end help (working on this) 💻
 * Norwegian/English translations ✍
 * Ask me anything Eurovision-related! Really. Anything. 💬
 
