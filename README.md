@@ -43,6 +43,7 @@
 ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+![BirckLoveGIF](https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008)
 
 ### Contact
 tina.bekkholt@hotmail.com
