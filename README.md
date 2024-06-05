@@ -5,7 +5,7 @@
 ### What do I do?
 * Junior front-end developer (currently looking for a job - [please contact me!](mailto:tina.bekkholt@hotmail.com)) 👩‍🎓
 * Founder of Bekkholt and Eurovision Squad 💭
-* Admin and editor @ Eurovision Squad -> Take a look here: [Eurovision Squad](https://eurovisionsquad.com/) 👩‍💻
+* Admin and editor @ [Eurovision Squad](https://eurovisionsquad.com/) 👩‍💻
 * Freelance transcriber and translator 👩‍💼
 
 
