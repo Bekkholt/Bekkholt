@@ -1,7 +1,7 @@
 # Hello all 👋
 
 ### What do I do?
-* Junior front-end developer 👩‍🎓
+* Junior front-end developer (currently looking for a job - please contact me!) 👩‍🎓
 * Founder of Bekkholt and Eurovision Squad 💭
 * Admin and editor @ Eurovision Squad 👩‍💻
 * Freelance transcriber and translator 👩‍💼
@@ -9,7 +9,7 @@
 ### Who am I?
 * Proud cat mom 🐈
 * Music is my life 🎶
-* Industrial metal music and horror movies is my home 🏠
+* Industrial metal music, horror movies and british humour is my home 🏠
 
 ### What can I do for you?
 * Front-end 💻
@@ -19,6 +19,9 @@
 
 ### Contact
 tina.bekkholt@hotmail.com
+
+![ThankYouBowGIF](https://github.com/Bekkholt/Bekkholt/assets/114468875/6d3b45b3-4caf-4e22-9abb-eb3992dd381a)
+
 
 
 <!--
