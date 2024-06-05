@@ -10,17 +10,6 @@
 
 
 
-### Who am I?
-* Proud cat mom 🐈
-* Music is my life 🎶
-* Industrial metal music, horror movies and british humour is my home 🏠
-
-### What can I do for you?
-* Front-end (see details under stuff I know) 💻
-* Design and creativity 🎨
-* Norwegian/English translations ✍
-* Ask me anything Eurovision-related! Really. Anything. 💬
-
 ### Stuff I know (so far)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -47,7 +36,23 @@
 ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-![BirckLoveGIF](https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008)
+
+<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008" alt="Video Preview Gif" align="right" width="500px"/>
+
+### Who am I?
+* Proud cat mom 🐈
+* Music is my life 🎶
+* Industrial metal music, horror movies and british humour is my home 🏠
+
+
+### What can I do for you?
+* Front-end (see details under stuff I know) 💻
+* Design and creativity 🎨
+* Norwegian/English translations ✍
+* Ask me anything Eurovision-related! Really. Anything. 💬
+
+
+<!-- ![BirckLoveGIF](https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008) -->
 
 ### Contact
 tina.bekkholt@hotmail.com
