@@ -1,6 +1,6 @@
 # Hello all 👋
 
-<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/395b9829-05e4-49f9-ae87-0cde58692298" alt="Video Preview Gif" align="right" width="500px"/>
+<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/395b9829-05e4-49f9-ae87-0cde58692298" alt="Video Preview Gif" align="right" width="40%"/>
 
 ### What do I do?
 * Junior front-end developer (currently looking for a job - [please contact me!](mailto:tina.bekkholt@hotmail.com)) 👩‍🎓
@@ -37,7 +37,7 @@
 ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008" alt="Video Preview Gif" align="right" width="500px"/>
+<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/2c354336-4c9b-4e0d-92e0-954278aca008" alt="Video Preview Gif" align="right" width="40%"/>
 
 ### Who am I?
 * Proud cat mom 🐈
