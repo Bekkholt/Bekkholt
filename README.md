@@ -1,10 +1,14 @@
 # Hello all 👋
 
+<img src="https://github.com/Bekkholt/Bekkholt/assets/114468875/395b9829-05e4-49f9-ae87-0cde58692298" alt="Video Preview Gif" align="right" width="500px"/>
+
 ### What do I do?
 * Junior front-end developer (currently looking for a job - [please contact me!](mailto:tina.bekkholt@hotmail.com)) 👩‍🎓
 * Founder of Bekkholt and Eurovision Squad 💭
 * Admin and editor @ Eurovision Squad -> Take a look here: [Eurovision Squad](https://eurovisionsquad.com/) 👩‍💻
 * Freelance transcriber and translator 👩‍💼
+
+
 
 ### Who am I?
 * Proud cat mom 🐈
