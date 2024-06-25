@@ -57,8 +57,6 @@
 ### Contact
 tina.bekkholt@hotmail.com
 
-![ThankYouBowGIF](https://github.com/Bekkholt/Bekkholt/assets/114468875/6d3b45b3-4caf-4e22-9abb-eb3992dd381a)
-
 
 
 <!--
